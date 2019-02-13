@@ -1,4 +1,11 @@
 <?php
+/**
+ * @filename put_object.php
+ *
+ * This is a very vanilla boilerplate example
+ * for using PHP to push files to an S3 bucket.
+ *
+ */
 
 require '../aws.php';
 
